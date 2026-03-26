@@ -1,0 +1,2 @@
+Current goals :
+        add a messagebox that displays game over and top ten high scores 
